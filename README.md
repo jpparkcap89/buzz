@@ -4,7 +4,10 @@
 
 - 계정 없이 링크·QR로 입장 (PeerJS로 교사 브라우저와 학생 폰을 직접 연결)
 - 부저 색: 🟢 지금 누를 수 있음 · 🔴 내가 눌렀거나 이미 누군가 눌렀음 · ⚪ 대기/마감 · 🟡 정답
-- ✓/✗ 채점과 점수판, 오답 시 다시 열기
+- ✓/✗ 채점, 오답 시 다시 열기, 점수 높은 순 🏆 시상대
+- 🎓 우리 반 마지막 번호까지만 입장, QR 확대 화면 아래에 입장 번호판
+- 📂 엑셀(.xlsx)·CSV로 문제/정답 불러오기 (정답은 선생님에게만 보임)
+- 📖 선생님·학생용 사용 안내
 - 단일 `index.html` — GitHub Pages나 Vercel에 그대로 올리면 됩니다
 
 ## 사용법
@@ -15,7 +18,7 @@
 선생님 탭은 수업 중 닫지 마세요(선생님 브라우저가 중계 역할을 합니다).
 
 ## 사용한 UI
-- [Lucian UX/UI Prompt](https://github.com/Seokwoooo/lucian-uxui) #026, #008, #070 · MIT License (c) 2026 Seokwoooo
+- [Lucian UX/UI Prompt](https://github.com/Seokwoooo/lucian-uxui) #026, #008, #070, #018, #042 · MIT License (c) 2026 Seokwoooo
 - 디자인: cap89 스타일
 
 © 2026 cap89 · AI·디지털 미래교육
